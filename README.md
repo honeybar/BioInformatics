@@ -6,7 +6,7 @@ The bacteria that we study on are from Bacillaceae family and also biolumisence 
 
 We notice that there is no significant correlation between gc content and temperature when it comes biolumisence bacteria (though we only have around 21 biolumisence bacteria to work with.) However, when we run random forest algorithm, we discover that genus plays a role in contributing in increase of temperature. 
 
-We perform random forest with Bacillaceae family, and there is somewhat a significant correlation between GC content and temperature (around 0.41) with p-value of 0.012. When we run a random forest algorithm to determine if genus does play a role, it turns out that it does, and it plays even more significant role compared to that in biolumisence (with signifiance around 0.44 roughly). 
+We perform random forest with Bacillaceae family, and there is somewhat a significant correlation between GC content and temperature (around 0.41) with p-value of 0.012. When we run a random forest algorithm to determine if genus does play a role, it turns out that it does with signifiance around 0.44 roughly). 
 
 Biolumisence data comes from the blast database whereas Bacillaceae bacteria data comes from Gold. 
 Credits to Rachel Calder and David Mateo Ricci for coming up with this research topic and collecting the relevant data.
