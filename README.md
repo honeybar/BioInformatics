@@ -9,7 +9,7 @@ We notice that there is no significant correlation between gc content and temper
 We perform random forest with Bacillaceae family, and there is somewhat a significant correlation between GC content and temperature (around 0.41) with p-value of 0.012. When we run a random forest algorithm to determine if genus does play a role, it turns out that it does with signifiance around 0.44 roughly). 
 
 Biolumisence data comes from the blast database whereas Bacillaceae bacteria data comes from Gold. 
-Credits to Rachel Calder and David Mateo Ricci for coming up with this research topic and collecting the relevant data.
+Credits to Rachel Calder, David Mateo Ricci and Sandun Ranaweera for coming up with this research topic and collecting the relevant data.
 
 link to the paper: https://docs.google.com/document/d/1B5BRTxpjODs-vjkRd0jhvgnU5i0aqnOejLhsAvz6orc/edit?usp=sharing
 
